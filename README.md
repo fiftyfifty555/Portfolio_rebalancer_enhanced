@@ -3,7 +3,7 @@ Advanced Python GUI system for risk-aware stock portfolio rebalancing using tech
 
 ## Description
 
-Portfolio_Rebalancer_Pro is an extended research software prototype for analyzing financial time series and building dynamic stock portfolio rebalancing strategies.
+Portfolio_rebalancer_enhanced is an extended research software prototype for analyzing financial time series and building dynamic stock portfolio rebalancing strategies.
 
 This project continues the previous Portfolio_Rebalancer work and develops it into a more complete experimental application. The system combines technical indicator analysis, asset scoring, multi-objective portfolio optimization, transaction cost modeling, walk-forward backtesting, and interactive GUI-based visualization.
 
@@ -194,7 +194,7 @@ The main practical result is improved risk-adjusted performance rather than simp
 ## Project Structure
 
 ```text
-Portfolio_Rebalancer_Pro/
+Portfolio_rebalancer_enhanced/
 ├── data.py              # data loading, caching, calendar alignment
 ├── indicators.py        # technical indicators
 ├── signals.py           # normalization and asset scoring
